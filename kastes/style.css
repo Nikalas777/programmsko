@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(177, 226, 211);
+    margin: 0;
+}
+
+.augseja-kaste {
+ width: 200px;
+ height: 200px;
+ border: solid;
+ border-width: 10px;
+background-color: rgb(93, 216, 175);
+padding: 20px;
+
+}
+
+
+.videja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 20px;
+   background-color: rgb(243, 199, 158);
+ padding: 20px;
+ margin: 0 260px;
+ position: fixed;
+ top: 50px;
+ left: 50px;
+   }
+
+   
+   .apakseja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+   background-color: rgb(229, 164, 238);
+   padding: 20px;
+   margin: 0 540px;
+   }
+   
+
+   .bilde {
+    width: 300px;
+    float: left;
+   }

@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(253, 191, 250);
+    }
+    h1 {
+    color: rgb(53, 2, 59);
+    margin-left: 20px;
+    text-align: center;
+    }
+    h2 {
+        margin-left: 20px;
+        text-align: center;
+        }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+          .otter
+          {
+              display: block;
+              margin-left: 900px;  
+            }
+
+
+            table, th, td {
+              border:1px solid rgb(13, 2, 31);
+              margin-left: auto;
+              margin-right: auto;
+              }
+
+              .krasa {
+
+                color: blueviolet;
+                
+                  }
